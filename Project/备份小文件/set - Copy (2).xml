@@ -1,0 +1,82 @@
+﻿<Settings>
+  <People num="10000" distribution="0">
+    <男孩 percentage="10" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+    <女孩 percentage="10" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+    <中青年男性 percentage="30" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+    <中青年女性 percentage="30" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+    <老年男性 percentage="10" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+    <老年女性 percentage="10" speedMin="1.2" speedMax="1.6" responseTimeMin="1" responseTimeMax="20" />
+  </People>
+  <RVO>
+    <Radius r=""/>
+    <timeStep t=""/>
+  </RVO>
+  <SelectNearest bool="0"/>
+  <Areas>
+    <_1  id="1 "  direct="1"  name="1_金世界广场"  pos1="3"   pos2="2"   density="10"  acreage="1"  receiveTime="0" />
+    <_2  id="2 "  direct="1"  name="2_文山东区"    pos1="3"   pos2="2"   density="10"  acreage="1"  receiveTime="0" />
+    <_3  id="3 "  direct="1"  name="3_月明楼南"    pos1="3"   pos2="3"   density="10"  acreage="1"  receiveTime="0" />
+    <_4  id="4 "  direct="1"  name="4_大秤西区"    pos1="3"   pos2="0"   density="10"  acreage="1"  receiveTime="0" />
+    <_21 id="21"  direct="1"  name="21_南庆街"     pos1="3"   pos2="3"   density="10"  acreage="1"  receiveTime="0" />
+    <_23 id="23"  direct="1"  name="23_柠檬街"     pos1="3"   pos2="2"   density="10"  acreage="1"  receiveTime="0" />
+    <_32 id="32"  direct="1"  name="32_东门町西"   pos1="1"   pos2="0"   density="10"  acreage="1"  receiveTime="0" />
+    <_33 id="33"  direct="1"  name="33_汇食街"     pos1="最近出口"  pos2="20"  density="10"  acreagereceiveTime="1"  receiveTime="0" />
+    <_34 id="34"  direct="1"  name="34_永新街"     pos1="2"   pos2="0"   density="10"  acreage="1"  receiveTime="0" />
+    <_5  id="5 "  direct="1"  name="5_大秤"        pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_6  id="6 "  direct="1"  name="6_大秤东区"    pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_7  id="7 "  direct="1"  name="7_大世界北区"  pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_8  id="8 "  direct="1"  name="8_解放路东端"  pos1="9"  pos2="10"  density="10"  acreage="1" receiveTime="0" />
+    <_11 id="11"  direct="1"  name="11_大秤南路"   pos1="0"  pos2="3"   density="10"  acreage="1" receiveTime="0" />
+    <_12 id="12"  direct="1"  name="12_东门町"     pos1="0"  pos2="3"   density="10"  acreage="1" receiveTime="0" />
+    <_22 id="22"  direct="1"  name="22_越港绿地"   pos1="0"  pos2="0"   density="0"   acreage="1" receiveTime="0" />
+    <_29 id="29"  direct="1"  name="29_九龙城西"   pos1="9"  pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_30 id="30"  direct="1"  name="30_中威巷子"   pos1="10" pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_31 id="31"  direct="1"  name="31_大世界西"   pos1="10" pos2="10"  density="10"  acreage="1" receiveTime="0" />
+    <_9  id="9 "  direct="1"  name="9_天龙西区"    pos1="5"   pos2="5"   density="10"  acreage="1" receiveTime="0" />
+    <_10 id="10"  direct="1"  name="10_风貌街"     pos1="5"   pos2="3"   density="10"  acreage="1" receiveTime="0" />
+    <_14 id="14"  direct="1"  name="14_东门广场"   pos1="8"   pos2="5"   density="10"  acreage="1" receiveTime="0" />
+    <_15 id="15"  direct="1"  name="15_韩国城南"   pos1="8"   pos2="5"   density="10"  acreage="1" receiveTime="0" />
+    <_16 id="16"  direct="1"  name="16_二横街东"   pos1="8"   pos2="9"   density="0"   acreage="1" receiveTime="0" />
+    <_17 id="17"  direct="1"  name="17_茂业东"     pos1="8"   pos2="9"   density="0"   acreage="1" receiveTime="0" />
+    <_18 id="18"  direct="1"  name="18_九龙城东"   pos1="8"   pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_25 id="25"  direct="1"  name="25_天龙北区"   pos1="6"   pos2="7"   density="10"  acreage="1" receiveTime="0" />
+    <_26 id="26"  direct="1"  name="26_天龙东区"   pos1="7"   pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_27 id="27"  direct="1"  name="27_一横街"     pos1="7"   pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_28 id="28"  direct="1"  name="28_陶兴巷"     pos1="8"   pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_13 id="13"  direct="1"  name="13_耀华南"     pos1="4"   pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_20 id="20"  direct="1"  name="20_宝华广场"   pos1="4"   pos2="4"   density="10"  acreage="1" receiveTime="0" />
+    <_35 id="35"  direct="1"  name="35_宝华楼小路" pos1="4"   pos2="5"   density="8"   acreage="1" receiveTime="0" />
+    <_36 id="36"  direct="1"  name="36_耀华北"     pos1="4"   pos2="6"   density="10"  acreage="1" receiveTime="0" />
+    <_37 id="37"  direct="1"  name="37_明华广场"   pos1="5"   pos2="5"   density="10"  acreage="1" receiveTime="0" />
+  </Areas>
+  <AreaOuts>
+	  <Outs>
+      <_1 outid="2"/>
+      <_2 outid="3"/>
+      <_3 outid="4"/>
+      <_0 outid="1"/>
+      <_9 outid="10"/>
+      <_10 outid="11"/>
+      <_5 outid="6"/>
+      <_6 outid="7"/>
+      <_7 outid="8"/>
+      <_8 outid="9"/>
+      <_4 outid="5"/>
+      <_5 outid="6"/>
+      
+      <_11 outid="12"/>
+      <_12 outid="13"/>
+    </Outs>
+  </AreaOuts>
+  <ColorDensity>
+    <_1 dens="0.31"/>
+    <_2 dens="0.43"/>
+    <_3 dens="0.72"/>
+    <_4 dens="1.08"/>
+    <_5 dens="2.17"/>
+  </ColorDensity>
+
+  <InfectionIntervel time="5" />
+  <SimulateRVO bool="0"/>
+  <RecordInterval SelectedIndex="4"/>
+</Settings>

@@ -1,0 +1,45 @@
+﻿<Settings>
+  <People num="7000" distribution="0">
+    <男孩 percentage="10" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+    <女孩 percentage="10" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+    <中青年男性 percentage="30" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+    <中青年女性 percentage="30" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+    <老年男性 percentage="10" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+    <老年女性 percentage="10" speedMin="1" speedMax="1.6" responseTimeMin="1" responseTimeMax="2" />
+  </People>
+  <RVO>
+    <Radius r=""/>
+    <timeStep t=""/>
+  </RVO>
+  <SelectNearest bool="0"/>
+  <Areas>
+    <_5  id="5 "  direct="1"  name="5_大秤"        pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_6  id="6 "  direct="1"  name="6_大秤东区"    pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_7  id="7 "  direct="1"  name="7_大世界北区"  pos1="9"  pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_8  id="8 "  direct="1"  name="8_解放路东端"  pos1="9"  pos2="10"  density="10"  acreage="1" receiveTime="0" />
+    <_11 id="11"  direct="1"  name="11_大秤南路"   pos1="0"  pos2="3"   density="10"  acreage="1" receiveTime="0" />
+    <_12 id="12"  direct="1"  name="12_东门町"     pos1="0"  pos2="3"   density="10"  acreage="1" receiveTime="0" />
+    <_22 id="22"  direct="1"  name="22_越港绿地"   pos1="0"  pos2="0"   density="0"   acreage="1" receiveTime="0" />
+    <_29 id="29"  direct="1"  name="29_九龙城西"   pos1="9"  pos2="9"   density="10"  acreage="1" receiveTime="0" />
+    <_30 id="30"  direct="1"  name="30_中威巷子"   pos1="10" pos2="0"   density="10"  acreage="1" receiveTime="0" />
+    <_31 id="31"  direct="1"  name="31_大世界西"   pos1="10" pos2="10"  density="10"  acreage="1" receiveTime="0" />
+
+  </Areas>
+  <AreaOuts>
+    <Outs>
+      <_0 outid="1"/>
+      <_9 outid="10"/>
+      <_10 outid="11"/>
+    </Outs>
+  </AreaOuts>
+  <ColorDensity>
+    <_1 dens="0.31"/>
+    <_2 dens="0.43"/>
+    <_3 dens="0.72"/>
+    <_4 dens="1.08"/>
+    <_5 dens="2.17"/>
+  </ColorDensity>
+
+  <InfectionIntervel time="5" />
+
+</Settings>
